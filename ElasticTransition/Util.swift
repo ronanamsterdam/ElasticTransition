@@ -25,7 +25,7 @@
  */
 
 import UIKit
-import MotionAnimation
+//import MotionAnimation
 
 let π:CGFloat = CGFloat(M_PI)
 
